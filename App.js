@@ -5,6 +5,8 @@ const App = () => {
   return(
     <View style={styles.container}>
       <Text style={styles.text}>Hola Mundo!</Text>
+      <Text style={styles.text}>Segunda linea</Text>
+      <Text style={styles.text}>Tercer linea: subtitulo</Text>
     </View>
   )
 }
